@@ -1,0 +1,1 @@
+# Bakircay-gd-210601003-finalodevi
