@@ -1,5 +1,7 @@
 🎮 Match Game
+
 📝 Proje Açıklaması
+
 Match Game, eşleştirme becerilerinizi test eden eğlenceli ve bağımlılık yapıcı bir oyun. Oyunda amacınız, aynı tür nesneleri eşleştirerek puan toplamak ve en yüksek skoru elde etmektir. Oyun, renkli grafikler, kullanıcı dostu bir arayüz ve çeşitli görsel efektler sunarak oyunculara keyifli bir deneyim sağlar.
 
 ✨ Özellikler
